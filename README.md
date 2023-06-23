@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jobet Guarte @jbtgrt
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web Programming/Web Development/Backend
 - 🌱 I’m currently learning Laravel and VueJs
 - 💞️ I’m looking to a web development organization to work with developers and other professionals who are currently working in that field
 and ready to contribute my skills to grow their product.
